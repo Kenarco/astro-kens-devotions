@@ -4,7 +4,7 @@ author: Ken Stevens
 pubDatetime: 2024-02-26T16:08:12+08:00
 description: "Romans Influence on the Protestant Reformation"
 tags: 
-  - intro 
+  - introduction
   - Romans 
   - Martin Luther
 ---

@@ -1,5 +1,5 @@
 {
-  "name": "astro-kens-devotions-2",
+  "name": "astro-kens-devotions",
   "version": "4.2.0",
   "scripts": {
     "dev": "astro dev",
