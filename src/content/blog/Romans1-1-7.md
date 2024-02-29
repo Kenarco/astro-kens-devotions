@@ -2,7 +2,7 @@
 title: Romans 1:1-7
 author: Ken Stevens
 description: Romans 1:1-7
-pubDatetime: 2024-02-28T08:56:00Z
+pubDatetime: 2024-02-29T18:03:00Z
 tags:
     - Romans
 ---
