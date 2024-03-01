@@ -1,7 +1,7 @@
 ---
 title: "Romans and The Protestant Reformation"
 author: Ken Stevens
-pubDatetime: 2024-02-26T16:08:12+08:00
+pubDatetime: 2024-02-26T16:08:12Z
 description: "Romans Influence on the Protestant Reformation"
 tags: 
   - introduction
