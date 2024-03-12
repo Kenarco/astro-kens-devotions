@@ -3,14 +3,50 @@ title: "Romans 1:1-7"
 author: Ken Stevens
 description: "Romans 1:1-7"
 pubDatetime: 2024-02-29T18:03:00Z
+modDatetime: 2024-03-11T09:45:00Z
 tags:
     - Romans
+    - Methodism
 ---
-## Ready for Rome ##
+John Wesley, the Anglican clergyman and founder of the Methodist movement, had a significant spiritual transformation that profoundly impacted his life and ministry. Let’s delve into the details:
 
-On May 24, 1738, a discouraged missionary went “very unwillingly” to a religious meeting in London. There a miracle took place. “About a quarter before nine,” he wrote in his journal, “I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation; and an assurance was given me that He had taken away my sins, even mine, and saved me from the law of sin and death.”
+## Early Life and background ##
 
-That missionary was John Wesley. The message he heard that evening was the preface to Martin Luther’s commentary on Romans. Just a few months before, John Wesley had written in his journal: “I went to America to convert the Indians; but Oh! who shall convert me?” That evening in Aldersgate Street, his question was answered. And the result was the great Wesleyan Revival that swept England and transformed the nation.
+* John Wesley was born on June 17, 1703, in Epworth, Lincolnshire, England.
+
+* His father, Samuel Wesley, was a former Nonconformist (a dissenter from the Church of England) and rector at Epworth.
+
+* John Wesley received education at the Charterhouse in London and later attended Christ Church, Oxford University.
+
+## The Holy Club abd Methodism ##
+
+* In 1729, John Wesley joined a religious study group at Oxford University, which was mockingly called the “Methodists” due to their methodical approach to study and devotion.
+
+* The group, also known as the Holy Club, emphasized frequent communion services, fasting, and social services.
+* Wesley’s spiritual journey continued, and he sought a deeper understanding of faith.
+
+## The Turning Point: ##
+
+* On May 24, 1738, John Wesley experienced a pivotal moment. He described it as feeling his heart “strangely warmed.”
+
+* During this experience, he realized that salvation came through faith alone—a profound shift in his understanding.
+
+* Wesley felt assured that Christ alone was the source of salvation, and he had been forgiven of his sins.
+
+## Justification and Sanctification: ##
+
+Wesley’s doctrine of salvation includes two key components:
+
+* Justification: The moment when a person is pardoned of their sins and reconciled to God. It is a real personal change, not just a forensic status change.
+
+* Sanctification: The ongoing process of growth in holiness and love for all humanity.
+
+* Wesley emphasized that salvation is linked with faith, and it involves both the heart and the mind.
+
+In summary, John Wesley’s salvation experience occurred around May 24, 1738, when he felt a deep assurance of forgiveness and trust in Christ for salvation. This transformative event shaped his life and ministry, leading to the birth of Methodism123.
+
+
+The message he heard that evening was the preface to Martin Luther’s commentary on Romans. Just a few months before, John Wesley had written in his journal: “I went to America to convert the Indians; but Oh! who shall convert me?” That evening in Aldersgate Street, his question was answered. And the result was the great Wesleyan Revival that swept England and transformed the nation.
 
 Paul’s Epistle to the Romans is still transforming people’s lives, just the way it transformed Martin Luther and John Wesley. The one Scripture above all others that brought Luther out of mere religion into the joy of salvation by grace, through faith, was Romans 1:17: “The just shall live by faith.” The Protestant Reformation and the Wesleyan Revival were both the fruit of this wonderful letter written by Paul from Corinth about the year A.D. 56. The letter was carried to the Christians at Rome by one of the deaconesses of the church at Cenchrea, Sister Phebe (Rom. 16:1).
 
