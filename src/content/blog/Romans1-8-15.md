@@ -2,8 +2,7 @@
 title: Romans 1:8-15
 author: Ken Stevens
 description: "Romans 1:8-15"
-pubDatetime: 2024-12-03T02:37:00Z
-modDatetime: 2024-12-03T03:00:00Z
+pubDatetime: 2024-12-03T02:00:00Z
 tags: 
     - Romans
 ---
