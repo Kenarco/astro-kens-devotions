@@ -5,17 +5,23 @@ description: "Romans 1:8-15"
 pubDatetime: 2024-13-03T09:50:00Z
 tags: 
     - Romans
-    - Concern for the church in Rome
 ---
 ## Romans 1:8-15 ##
 
 (Rom 1:8)  First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world.
+<br>
 (Rom 1:9)  For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you
+<br>
 (Rom 1:10)  always in my prayers, asking that somehow by God's will I may now at last succeed in coming to you.
+<br>
 (Rom 1:11)  For I long to see you, that I may impart to you some spiritual gift to strengthen you—
+<br>
 (Rom 1:12)  that is, that we may be mutually encouraged by each other's faith, both yours and mine.
+<br>
 (Rom 1:13)  I do not want you to be unaware, brothers, that I have often intended to come to you (but thus far have been prevented), in order that I may reap some harvest among you as well as among the rest of the Gentiles.
+<br>
 (Rom 1:14)  I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish.
+<br>
 (Rom 1:15)  So I am eager to preach the gospel to you also who are in Rome.
 
 ## He expressed his concern ##
