@@ -5,6 +5,7 @@ description: "Romans 1:8-15"
 pubDatetime: 2024-12-03T02:00:00Z
 tags: 
     - Romans
+    - Concern for the church in Rome
 ---
 ## Romans 1:8-15 ##
 
