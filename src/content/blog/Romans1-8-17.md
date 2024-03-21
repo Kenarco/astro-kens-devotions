@@ -1,12 +1,13 @@
 ---
-title: "Romans 1:8-15"
+title: "Romans 1:8-17"
 author: Ken Stevens
-description: "Romans 1:8-15"
+description: "Romans 1:8-17"
 pubDatetime: 2024-03-14T09:44:00Z
+modDatetime: 2024-03-21T08:42:00Z
 tags: 
     - Romans
 ---
-## Romans 1:8-15 ##
+## Romans 1:8-17 ##
 
 (Rom 1:8)  First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world.
 <br>
@@ -23,6 +24,11 @@ tags:
 (Rom 1:14)  I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish.
 <br>
 (Rom 1:15)  So I am eager to preach the gospel to you also who are in Rome.
+<br>
+(Rom 1:16)  For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.
+<br>
+(Rom 1:17)  For in it the righteousness of God is revealed from faith for faith, as it is written, “The righteous shall live by faith.”
+
 
 ## He expressed his concern ##
 
