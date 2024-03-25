@@ -3,7 +3,7 @@ title: "Romans 1:8-17"
 author: Ken Stevens
 description: "Romans 1:8-17"
 pubDatetime: 2024-03-14T09:44:00Z
-modDatetime: 2024-03-21T08:42:00Z
+modDatetime: 2024-03-25T11:47:00Z
 tags: 
     - Romans
 ---
@@ -60,6 +60,14 @@ Two different Greek words are translated “ready” in the King James Version. 
 
 After reading these five evidences of Paul’s concern for the Christians at Rome, these saints could not but give thanks to God for the Apostle Paul and his burden to come and minister to them. Actually, the Epistle to the Romans in which Paul explained the Gospel he preached, was his letter of introduction that prepared the believers for his visit. No doubt the false teachers had already gotten to Rome and were seeking to poison the Christians against Paul (see Rom. 3:8). Some would accuse him of being anti-Law; others would say he was a traitor to the Jewish nation. Still others would twist his teaching about grace and try to prove that he taught loose living. No wonder Paul was eager to get to Rome! He wanted to share with them the fullness of the Gospel of Christ.
 
+## Paul was not ashamed of the Gospel ##
+
+Paul was not ashamed of the gospel for two reasons. The first is that the gospel revives men's lives. Dead in sin, and without the Lord, men go through the motions of living. But in reality, without any real purpose, they wonder why they exist. Paul was not ashamed of the gospel because it is the power of God unto salvation. It is literally the dunamis—from which we get our words "dynamic" and "dynamite"—to totally turn people around and give them reason for being.
+
+The second reason Paul was not ashamed of the gospel is that it reveals God's love. God's love is seen in the fact that He doesn't just wink at sin and say, "Boys will be boys." After all, who would want to live in a community in which righteousness was not enforced, in which police officers simply said, "People will be people. So let's just close our eyes to robberies and murders"? If that was the policy of the community in which you lived, you would move. God neither winks at sin nor wipes us out because of sin. Rather, He washes away our sin by the blood of His Son
+Here's where many of us are vulnerable to error. We know salvation is from faith because we begin by simply embracing the Good News of the gospel but then we go from faith to works. We think we have to mobilize, organize, and agonize over our spirituality.
+
+"No, " says Paul. "It's from faith to faith." The just shall live by faith. Faith is not only the starting point of your salvation—it's the staying power of your Christian walk. "Even as you received Christ," Paul would say to the Colossians, "so walk ye in Him" (see Col_2:6). "Oh foolish Galatians," he would write, "are you so foolish? Having begun in the Spirit are you now made perfect by the flesh?" (see Gal_3:1-3). The just shall live by faith—faith in the finished work of the Cross, faith in the resurrected presence of Jesus Christ.
 
 
 
