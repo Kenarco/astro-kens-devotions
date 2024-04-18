@@ -1,7 +1,7 @@
 ---
 title: Introduction to Romans
 author: Ken Stevens
-pubDatetime: 2024-02-22T13:28:00Z
+pubDatetime: 2024-02-22T13:28:00+08:00
 featured: false
 tags:
   - Introduction

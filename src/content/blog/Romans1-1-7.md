@@ -2,8 +2,8 @@
 title: "Romans 1:1-7"
 author: Ken Stevens
 description: "Romans 1:1-7"
-pubDatetime: 2024-02-29T18:03:00Z
-modDatetime: 2024-03-11T09:45:00Z
+pubDatetime: 2024-02-29T18:03:00+08:00
+modDatetime: 2024-03-11T09:45:00+08:00
 tags:
     - Romans
     - Methodism

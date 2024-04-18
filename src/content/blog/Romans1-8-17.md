@@ -2,8 +2,8 @@
 title: "Romans 1:8-17"
 author: Ken Stevens
 description: "Romans 1:8-17"
-pubDatetime: 2024-03-14T09:44:00Z
-modDatetime: 2024-03-25T11:47:00Z
+pubDatetime: 2024-03-14T09:44:00+08:00
+modDatetime: 2024-03-25T11:47:00+08:00
 tags: 
     - Romans
 ---
